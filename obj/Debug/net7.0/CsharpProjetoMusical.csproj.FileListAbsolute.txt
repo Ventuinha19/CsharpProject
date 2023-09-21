@@ -1,0 +1,14 @@
+C:\Workspace\CsharpProjetoMusical\bin\Debug\net7.0\CsharpProjetoMusical.exe
+C:\Workspace\CsharpProjetoMusical\bin\Debug\net7.0\CsharpProjetoMusical.deps.json
+C:\Workspace\CsharpProjetoMusical\bin\Debug\net7.0\CsharpProjetoMusical.runtimeconfig.json
+C:\Workspace\CsharpProjetoMusical\bin\Debug\net7.0\CsharpProjetoMusical.dll
+C:\Workspace\CsharpProjetoMusical\bin\Debug\net7.0\CsharpProjetoMusical.pdb
+C:\Workspace\CsharpProjetoMusical\obj\Debug\net7.0\CsharpProjetoMusical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CsharpProjetoMusical\obj\Debug\net7.0\CsharpProjetoMusical.AssemblyInfoInputs.cache
+C:\Workspace\CsharpProjetoMusical\obj\Debug\net7.0\CsharpProjetoMusical.AssemblyInfo.cs
+C:\Workspace\CsharpProjetoMusical\obj\Debug\net7.0\CsharpProjetoMusical.csproj.CoreCompileInputs.cache
+C:\Workspace\CsharpProjetoMusical\obj\Debug\net7.0\CsharpProjetoMusical.dll
+C:\Workspace\CsharpProjetoMusical\obj\Debug\net7.0\refint\CsharpProjetoMusical.dll
+C:\Workspace\CsharpProjetoMusical\obj\Debug\net7.0\CsharpProjetoMusical.pdb
+C:\Workspace\CsharpProjetoMusical\obj\Debug\net7.0\CsharpProjetoMusical.genruntimeconfig.cache
+C:\Workspace\CsharpProjetoMusical\obj\Debug\net7.0\ref\CsharpProjetoMusical.dll
